@@ -9,7 +9,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dracula&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
 
-
-### Find me
-
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://x.com/iamwhitelights)
