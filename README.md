@@ -10,3 +10,5 @@
 </a>
 
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://x.com/iamwhitelights)
+[![Insta Logo](https://icons.iconarchive.com/icons/uiconstock/socialmedia/32/Instagram-icon.png)](https://instagram.com/iamwhitelights)
+
