@@ -2,7 +2,7 @@
 
 > I'm a full stack web3 engineer, creative technologist, and cryptoartist.
 >
-> React, Vue, Electron, TS/Node, Solidity, Python, SQL, CI/CD tooling, AWS dev ops duties -- you name it I've done it.
+> React, Vue, Electron, TS/Node, Solidity, Python, SQL, GLSL, CI/CD tooling, AWS dev ops duties -- you name it I've done it.
 >
 > My favorite things to write are shaders, weird smart contracts, and ux-centric front end apps.
 
