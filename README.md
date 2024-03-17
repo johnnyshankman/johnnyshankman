@@ -1,6 +1,6 @@
 # Heyo 💀
 
-> I'm a full stack web3 engineer and cryptoartist. React, Vue, Node, Postgres, SQL, you name it. 
+> I'm a full stack web3 engineer, creative technologist, and cryptoartist. React, Vue, Node, Solidity, SQL, you name it. 
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
