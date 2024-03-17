@@ -10,6 +10,6 @@
 </a>
 
 
-### Fine me
+### Find me
 
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://x.com/iamwhitelights)
