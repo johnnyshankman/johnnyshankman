@@ -1,16 +1,15 @@
-### Hi there 👋
+# Heyo 💀
 
-<!--
-**johnnyshankman/johnnyshankman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a full stack web3 engineer and cryptoartist. React, Vue, Node, Postgres, SQL, you name it. 
 
-Here are some ideas to get you started:
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dracula&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Fine me
+
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://x.com/iamwhitelights)
