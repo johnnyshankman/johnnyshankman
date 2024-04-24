@@ -8,7 +8,7 @@
 >
 > Previously: Refinery29, Vice
 >
-> Currently: Manifold
+> Currently: Manifold, Freelance
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
