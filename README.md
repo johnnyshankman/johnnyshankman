@@ -6,7 +6,9 @@
 >
 > My favorite things to write are shaders, weird smart contracts, and ux-centric front end apps.
 >
-> Experience: Refinery29, Vice, and Manifold.
+> Previously: Refinery29, Vice
+>
+> Currently: Manifold
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
