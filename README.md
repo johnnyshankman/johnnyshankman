@@ -1,6 +1,6 @@
 # Waddup 🤘🏼💀
 
-> My name is Johnny, AKA White Lights, and I'm a full stack web3 engineer, creative technologist, and cryptoartist.
+> My name is Johnny (White Lights) and I'm a full stack engineer, creative technologist, and computer artist.
 >
 > I like making shaders, weird smart contracts, and gorgeous front end apps. React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, GLSL, CI/CD, Webmaster and Dev Ops Duties - I dig it all!
 > 
