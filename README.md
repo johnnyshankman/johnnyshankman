@@ -7,13 +7,9 @@
 > I've dedicated the last few years to building tools for digital artists in the cryptoart space and exploring the net-art world for myself.
 > 
 >
-> Previously:
-> * Refinery29
-> * Vice
+> Previously: Refinery29, Vice, Sick Visual / Dawn of Man
 >
-> Currently:
-> * Manifold
-> * Freelance
+> Currently: Manifold, Freelance
 <br/>
 
 <a href="#">
