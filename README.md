@@ -2,7 +2,7 @@
 
 > My name is Johnny (White Lights) and I'm a full stack engineer, creative technologist, and computer artist.
 >
-> I like making glitchy shaders, weird smart contracts, and gorgeous front end apps. React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, GLSL, CI/CD, Webmaster and Dev Ops Duties - I dig it all!
+> I like making glitchy shaders, weird smart contracts, and pretty front end apps. React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, GLSL, CI/CD, Webmaster and Dev Ops Duties - I dig it all!
 >
 > I've dedicated the last few years to building tools for digital artists in the cryptoart space and exploring the net-art world for myself.
 > 
