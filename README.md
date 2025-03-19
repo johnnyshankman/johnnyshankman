@@ -7,7 +7,7 @@
 > I've dedicated the last few years to building tools for digital artists in the cryptoart space and exploring the net-art world for myself.
 > 
 >
-> Currently: Manifold, Freelance
+> Currently: Manifold (job), White Lights (art), Freelance (when cool things pop up)
 >
 > Previously: Refinery29, Vice, Sick Visuals, Dawn of Man, MA3 Agency
 <br/>
