@@ -20,7 +20,3 @@
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
-
-[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Twitter-icon.png)](https://x.com/iamwhitelights)
-[![Insta Logo](https://icons.iconarchive.com/icons/uiconstock/socialmedia/32/Instagram-icon.png)](https://instagram.com/iamwhitelights)
-
