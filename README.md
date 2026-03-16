@@ -1,13 +1,13 @@
 # Heyo 🤘🏼💀
 
-> My name is Johnny (White Lights) and I'm a full stack engineer, creative technologist, and computer artist.
->
-> Whether it's React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, Postgres, GLSL, CI/CD, AWS, Digital Ocean, Heroku, Cloud Ops, or Dev Ops, you can bet I've done it.
+My name is Johnny (White Lights) and I'm a full stack engineer, creative technologist, and computer artist.
+
+Whether it's React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, Postgres, GLSL, CI/CD, AWS, Digital Ocean, Heroku, Cloud Ops, or Dev Ops... you can bet I've done it in my career.
+
+> Current: Looking for Work!
 > 
->
-> Current: Looking for work
->
 > Previous: [Manifold](manifold.xyz), [Refinery29](refinery29.com), [Vice Media](https://vice.com), [Agence MA3](https://ma3.design/)
+>
 <br/>
 
 <a href="#">
