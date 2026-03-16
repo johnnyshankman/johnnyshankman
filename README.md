@@ -5,9 +5,9 @@
 > Whether it's React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, Postgres, GLSL, CI/CD, AWS, Digital Ocean, Heroku, Cloud Ops, or Dev Ops, you can bet I've done it.
 > 
 >
-> Currently: Looking for work
+> Current: Looking for work
 >
-> Previously: [Manifold](manifold.xyz), [Refinery29](refinery29.com), [Vice Media](https://vice.com), [Agence MA3](https://ma3.design/)
+> Previous: [Manifold](manifold.xyz), [Refinery29](refinery29.com), [Vice Media](https://vice.com), [Agence MA3](https://ma3.design/)
 <br/>
 
 <a href="#">
