@@ -2,7 +2,7 @@
 
 Full stack engineer, creative technologist, and computer artist with 12+ years building for the web.
 
-Most recently I was Lead Engineer at [Manifold](https://manifold.xyz) for 4 years, where I built the on-chain and web infrastructure behind digital art drops for **Christie's**, **Refik Anadol**, **Pak**, **Mad Dog Jones**, **Sia**, and others. I've engineered releases that moved millions of dollars in minutes, and built tools used by artists now in permanent collections at the **Whitney** and **MoMA**.
+Most recently I was Lead Engineer at [Manifold](https://manifold.xyz) for 5 years, where I built the on-chain and web infrastructure behind the digital art drops of **Christie's**, **Refik Anadol**, **Pak**, **Mad Dog Jones**, **Sia**, and others. I've engineered decentralized applications that moved millions of dollars in minutes, and built tools used by artists now in permanent collections at the **Whitney**, **New Museum** and, **MoMA**.
 
 Before that I spent nearly 5 years at **Refinery29** — started on mobile, ended as Senior Engineer — migrating legacy PHP to React, leading AWS infra, and building the content tools behind one of the biggest women's media brands on the web.
 
