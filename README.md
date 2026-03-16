@@ -2,14 +2,12 @@
 
 > My name is Johnny (White Lights) and I'm a full stack engineer, creative technologist, and computer artist.
 >
-> I specialize in glitchy shaders, weird smart contracts, and beautiful full-stack apps. Whether it's React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, Postgres, GLSL, CI/CD, AWS, Digital Ocean, Heroku, Cloud Ops, or Dev Ops, you can bet I've done it. I also consider myself quite good with AI.
->
-> I've dedicated the last few years to building tools for digital artists in the cryptoart space and exploring the net-art world for myself.
+> Whether it's React, Vue, Electron, TypeScript, Node, Solidity, Python, SQL, Postgres, GLSL, CI/CD, AWS, Digital Ocean, Heroku, Cloud Ops, or Dev Ops, you can bet I've done it.
 > 
 >
-> Currently: Manifold (job), White Lights (art), Freelance (when cool things pop up)
+> Currently: Looking for work
 >
-> Previously: Refinery29, Vice, Sick Visuals, Dawn of Man, MA3 Agency
+> Previously: [Manifold](manifold.xyz), [Refinery29](refinery29.com), [Vice Media](https://vice.com), [Agence MA3](https://ma3.design/)
 <br/>
 
 <a href="#">
