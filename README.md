@@ -1,4 +1,4 @@
-# Waddup 🤘🏼💀
+# Heyo 🤘🏼💀
 
 > My name is Johnny (White Lights) and I'm a full stack engineer, creative technologist, and computer artist.
 >
