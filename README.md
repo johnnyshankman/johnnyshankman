@@ -17,7 +17,7 @@ Open to **Senior Full Stack Engineer**, **Senior Web Developer**, and **Engineer
 
 ### Featured Open Source
 
-**[hihat](https://github.com/johnnyshankman/hihat)** — A free, minimalist offline music player for macOS. Electron + React + TypeScript + Tailwind. True gapless playback, metadata editing, smart playlists, and native macOS integration. Built it because I wanted a music player that just plays local files without an account, ads, or internet.
+**[hihat](https://github.com/johnnyshankman/hihat)** — A free, minimalist offline music player for macOS. Electron + React + TypeScript + Tailwind. True gapless playback, metadata editing, smart playlists, and native macOS integration. Built it because I wanted a beautiful dark-mode music player that plays local music files without ads or distractions.
 
 ---
 
