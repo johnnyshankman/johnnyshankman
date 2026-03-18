@@ -1,18 +1,15 @@
 # Heyo, I'm Johnny 🤘🏼
 
-Full stack engineer, creative technologist, and computer artist with 12+ years building for the web.
+Full stack engineer, creative technologist, and computer artist with 12+ years architecting and shipping high-scale web systems.
 
-Most recently I was Lead Engineer at [Manifold](https://manifold.xyz) for 5 years, where I built the on-chain and web infrastructure behind the digital art drops of **Christie's**, **Refik Anadol**, **Pak**, **Mad Dog Jones**, **Sia**, and others. I've engineered decentralized applications that moved millions of dollars in minutes, and built tools used by artists now in permanent collections at the **Whitney**, **New Museum** and, **MoMA**.
-
-Before that I spent nearly 5 years at **Refinery29** — started on mobile, ended as Senior Engineer — migrating legacy PHP to React, leading AWS infra, and building the content tools behind one of the biggest women's media brands on the web.
-
-Whether it's React, TypeScript, Node, Solidity, Electron, Python, GLSL, AWS, or AI-assisted workflows — I've shipped it professionally and I genuinely enjoy all of it.
+Recently led engineering at Manifold.xyz for nearly five years, building a platform used by thousands of creators and powering high-profile launches for clients like Christie's, Refik Anadol, and Edward Snowden — handling thousands of concurrent users under extreme load. Previously grew from Front End Engineer to Senior Software Engineer at Refinery29, building the content tools behind one of the biggest women's media brands on the web. 
 
 I also make music and art as [White Lights](https://whitelights.co) (2M+ streams on Spotify).
 
 ### What I'm up to
 
-Open to **Senior Full Stack Engineer**, **Senior Web Developer**, and **Engineering Manager** roles. If you're hiring and value craft, curiosity, and thoughtful engineering — let's talk.
+Open to **Senior Full Stack Engineer**, **Senior Web Developer**, and **Engineering Manager** roles. Looking to drive technical strategy, mentor engineers, and ship products at the intersection of engineering and culture.
+
 
 **john.l.shankman@gmail.com** · [LinkedIn](https://linkedin.com/in/johnnyshankman) · [Twitter](https://x.com/iamwhitelights)
 
