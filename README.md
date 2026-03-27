@@ -29,6 +29,3 @@ Open to **Senior Full Stack Engineer**, **Senior Web Developer**, and **Engineer
 <a href="#">
   <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/pin?username=johnnyshankman&repo=hihat&theme=dark&hide_border=true" />
 </a>
-
----
-
