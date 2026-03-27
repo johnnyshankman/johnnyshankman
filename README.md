@@ -13,22 +13,22 @@ Open to **Senior Full Stack Engineer**, **Senior Web Developer**, and **Engineer
 
 **john.l.shankman@gmail.com** · [LinkedIn](https://linkedin.com/in/johnnyshankman) · [Twitter](https://x.com/iamwhitelights)
 
+<a href="#">
+  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true&hide_progress=true" />
+</a>
+
 ---
 
 ### Featured Open Source
 
 **[hihat](https://github.com/johnnyshankman/hihat)** — A free, minimalist offline music player for macOS. Electron + React + TypeScript + Tailwind. True gapless playback, metadata editing, smart playlists, and native macOS integration. Built it because I wanted a beautiful dark-mode music player that plays local music files without ads or distractions.
 
----
-
-<a href="#">
-  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
-</a>
 <a href="#">
   <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/pin?username=johnnyshankman&repo=hihat&theme=dark&hide_border=true" />
 </a>
 
+---
 
