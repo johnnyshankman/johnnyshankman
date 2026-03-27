@@ -11,7 +11,7 @@ I also make music and art as [White Lights](https://whitelights.co) (2M+ streams
 Open to **Senior Full Stack Engineer**, **Senior Web Developer**, and **Engineering Manager** roles. Looking to drive technical strategy, mentor engineers, and ship products at the intersection of engineering and culture.
 
 
-**john.l.shankman@gmail.com** · [LinkedIn](https://linkedin.com/in/johnnyshankman) · [Twitter](https://x.com/iamwhitelights)
+**john.l.shankman@gmail.com** · [LinkedIn](https://linkedin.com/in/johnnyshankman) · [X](https://x.com/iamwhitelights)
 
 <a href="#">
   <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
