@@ -4,7 +4,7 @@ Full stack engineer, creative technologist, and computer artist with 12+ years a
 
 Recently led engineering at Manifold.xyz for nearly five years, building a platform used by thousands of creators and powering high-profile bespoke launches for clients like Christie's, Refik Anadol, and Edward Snowden — handling thousands of concurrent users under extreme load. Previously grew from Front End Engineer to Senior Software Engineer at Refinery29, building the content tools behind one of the biggest women's media brands on the web. 
 
-I also make music and art as [White Lights](https://whitelights.co) (2M+ streams on Spotify).
+I also make music and art as [White Lights](https://whitelights.rip).
 
 ### What I'm up to
 
