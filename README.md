@@ -17,7 +17,7 @@ Open to **Senior Full Stack Engineer**, **Senior Front End Engineer**, and **Eng
   <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true&hide_progress=true" />
+  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
 
 ---
