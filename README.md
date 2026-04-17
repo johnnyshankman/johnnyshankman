@@ -12,7 +12,9 @@ I also make music and art as [White Lights](https://whitelights.rip) when I can.
 
 ### What I'm up to
 
-Open to **Senior or Staff level Full Stack Engineer, Front End Engineer, and Backend Engineer** roles. Looking to drive technical strategy, mentor engineers, and ship products at the intersection of engineering and culture with companies that are ai-driven.
+Looking for **Senior or Staff level Full Stack Engineer, Front End Engineer, and Backend Engineer** roles. 
+
+Looking to drive technical strategy, mentor engineers, and ship products at the intersection of engineering and culture with companies that are ai-driven.
 
 
 **john.l.shankman@gmail.com** · [LinkedIn](https://linkedin.com/in/johnnyshankman) · [X](https://x.com/iamwhitelights)
