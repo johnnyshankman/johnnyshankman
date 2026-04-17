@@ -23,13 +23,3 @@ Open to **Senior or Staff level Full Stack Engineer, Front End Engineer, and Bac
 <a href="#">
   <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
-
----
-
-### Featured Open Source
-
-**[hihat](https://github.com/johnnyshankman/hihat)** — A free, minimalist offline music player for macOS. Electron + React + TypeScript + Material UI. True gapless playback, metadata editing, smart playlists, and native macOS integration. Built because I wanted a beautiful app to manage and play my offline music library without ads, accounts, or distractions.
-
-<a href="https://github.com/johnnyshankman/hihat">
-  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/pin?username=johnnyshankman&repo=hihat&theme=dark&hide_border=true" />
-</a>
