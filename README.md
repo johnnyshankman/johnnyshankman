@@ -12,7 +12,7 @@ I also make music and art as [White Lights](https://whitelights.rip) when I can.
 
 ### What I'm up to
 
-Looking for **Senior** level **Full Stack Engineer**, **Front End Engineer**, or **Backend Engineer** roles at mid-large companies. 
+Looking for **Senior** level **Full Stack**, **Front End**, or **Backend** engineering roles at mid-large companies. 
 
 Looking to drive technical strategy, mentor engineers, and ship products at the intersection of engineering and culture with organizations that are ai-driven.
 
