@@ -17,7 +17,7 @@ Looking for **Senior/Staff** level **Full Stack Engineer**, **Front End Engineer
 Looking to drive technical strategy, mentor engineers, and ship products at the intersection of engineering and culture with companies that are ai-driven.
 
 
-**john.l.shankman@gmail.com** · [LinkedIn](https://linkedin.com/in/johnnyshankman) · [X](https://x.com/iamwhitelights)
+[LinkedIn](https://linkedin.com/in/johnnyshankman) · [X](https://x.com/iamwhitelights) · [Link Tree](https://www.whitelights.rip/lnk/)
 
 <a href="#">
   <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true&line_height=29" />
