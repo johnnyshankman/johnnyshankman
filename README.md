@@ -1,4 +1,4 @@
-# Heyo, I'm Johnny 🤘🏼
+# Heyo I'm Johnny 🤘🏼
 
 Full stack engineer and creative technologist with 12+ years architecting and shipping high-scale web systems.
 
