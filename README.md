@@ -20,8 +20,8 @@ Looking to drive technical strategy, mentor engineers, and ship products at the 
 [LinkedIn](https://linkedin.com/in/johnnyshankman) · [X](https://x.com/iamwhitelights) · [Link Tree](https://www.whitelights.rip/lnk/)
 
 <a href="#">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true&line_height=29" />
+  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api?username=johnnyshankman&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=stars&hide_border=true&hide_rank=true&line_height=29" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
+  <img height=200 align="center" src="https://johnnyshankman-github-readme-stats.vercel.app/api/top-langs/?username=johnnyshankman&layout=compact&theme=dark&langs_count=8&size_weight=0.1&count_weight=0.9&hide_border=true" />
 </a>
