@@ -10,13 +10,6 @@ I also make music and art as [White Lights](https://whitelights.rip) when I can.
 
 ---
 
-### What I'm up to
-
-Looking for **Senior** level **Full Stack**, **Front End**, or **Backend** engineering roles at mid-large companies. 
-
-Looking to drive technical strategy, mentor engineers, and ship products at the intersection of engineering and culture with organizations that are ai-driven.
-
-
 [LinkedIn](https://linkedin.com/in/johnnyshankman) · [X](https://x.com/iamwhitelights) · [Link Tree](https://www.whitelights.rip/lnk/)
 
 <a href="#">
