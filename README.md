@@ -2,8 +2,6 @@
 
 Full stack engineer and creative technologist with 12+ years architecting and shipping high-scale web systems.
 
-Currently working at Stripe/Privy. Before that, was Lead Full Stack Engineer at [Manifold.xyz](https://manifold.xyz), building the Studio platform used by thousands of creators.
-
 I also make music and art as [White Lights](https://whitelights.rip) when I can.
 
 ---
