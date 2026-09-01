@@ -2,9 +2,7 @@
 
 Full stack engineer and creative technologist with 12+ years architecting and shipping high-scale web systems.
 
-Recently was Lead Full Stack Engineer at [Manifold.xyz](https://manifold.xyz), building the Studio platform used by thousands of creators.
-
-Before that, I grew from Mobile Front End Engineer to Senior Software Engineer at [Refinery29](https://refinery29.com) (acquired by [Vice](https://vice.com)), building the content tools and blog behind one of the biggest women's media brands on the web. 
+Currently working at Stripe/Privy. Before that, was Lead Full Stack Engineer at [Manifold.xyz](https://manifold.xyz), building the Studio platform used by thousands of creators.
 
 I also make music and art as [White Lights](https://whitelights.rip) when I can.
 
